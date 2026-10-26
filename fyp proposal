@@ -1,0 +1,28 @@
+# Attendance Management System
+
+A system for recording and managing student/employee attendance.
+
+## Features
+- Add and manage students/employees
+- Mark daily attendance (present / absent / late)
+- View attendance reports by date or person
+- [Add any other features your project has]
+
+## Technologies Used
+- [e.g. C# / .NET, SQL Server, Windows Forms]
+
+## How to Run
+1. Clone the repository:
+   git clone https://github.com/noorfatima07007/Attendence-managment-system.git
+2. Open the project in [e.g. Visual Studio]
+3. Set up the database using [file name, e.g. database.sql]
+4. Build and run the project
+
+## Screenshots
+[Add screenshots here]
+
+## Author
+Noor Fatima – [@noorfatima07007](https://github.com/noorfatima07007)
+
+## License
+This project is licensed under the terms in the LICENSE file.
